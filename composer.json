@@ -1,0 +1,19 @@
+{
+    "name": "sylvain/html2pdf",
+    "description": "html to pdf demo custom",
+    "type": "html2pdf",
+    "autoload": {
+        "psr-4": {
+            "Sylvain\\Html2pdf\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sylvaincodes",
+            "email": "adandesylvain2010@gmail.com"
+        }
+    ],
+    "require": {
+        "spipu/html2pdf": "^5.2"
+    }
+}
